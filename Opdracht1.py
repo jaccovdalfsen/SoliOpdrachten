@@ -11,7 +11,7 @@ def goedenavond():
 def groet(naam):
     print(f"Hallo, {naam}!")
 
-# Opdracht 2.1 - Functie om een keersom te maken
+# Opdracht 1.4 - Functie om een keersom te maken
 def keer(a: int, b: int):
     antwoord = a * b
     print(f"Het antwoord op deze keersom is: {antwoord}")
@@ -29,5 +29,4 @@ def main():
 
 # Dit zorgt ervoor dat de main functie wordt aangeroepen.
 # Hier hoef je niet aan te zitten
-if __name__ == "__main__":
-    main()
+main()
