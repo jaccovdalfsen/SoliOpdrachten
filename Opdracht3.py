@@ -44,3 +44,11 @@ def hexadecimaal(getal):
         return
 
     print(hex(getal))
+
+def main():
+    getal = int(input("Voer een getal in: "))
+    is_priem(getal)
+    binair(getal)
+    hexadecimaal(getal)
+
+main()

@@ -55,3 +55,12 @@ def whileloop(getal):
             i += 1
     else:
         print("Het getal is geen integer")
+
+def main():
+    getal = int(input("Voer een getal in: "))
+    check(getal)
+    switch(getal)
+    forloop(getal)
+    whileloop(getal)
+
+main()
