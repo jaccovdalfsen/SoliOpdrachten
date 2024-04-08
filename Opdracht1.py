@@ -19,7 +19,7 @@
 
 # Main functie 
 def main():
-    goedenavond()
+    # goedenavond()
 
     # naam = input("Voer je naam in: ")
     # groet(naam)
@@ -27,6 +27,7 @@ def main():
     # cijfer1 = int(input("Voer het eerste cijfer voor de keersom in: "))
     # cijfer2 = int(input("Voer het tweede cijfer in: "))
     # keer(cijfer1, cijfer2)
+    return
 
 # Dit zorgt ervoor dat de main functie wordt aangeroepen.
 # Hier hoef je niet aan te zitten
